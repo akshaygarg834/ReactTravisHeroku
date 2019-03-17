@@ -2,7 +2,7 @@
   "name": "reactraviseroku",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/akshaygarg834/ReactTravisHeroku",
+  "homepage": "https://akshaygarg834.github.io/ReactTravisHeroku/",
   "dependencies": {
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
