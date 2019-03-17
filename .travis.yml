@@ -9,9 +9,9 @@ script:
   - npm run build
 
 deploy:
-  provider: pages
+  provider: surge
+  project: ./build/
+  domain: akshaygarg834.surge.sh
   skip_cleanup: true
-  github_token: $github_token
-  local_dir: build
-  on:
+on:
     branch: master
