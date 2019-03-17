@@ -11,7 +11,7 @@ script:
 deploy:
   provider: surge
   project: ./build/
-  domain: akshaygarg834.surge.sh
+  domain: createReactApp.surge.sh
   skip_cleanup: true
 on:
     branch: master
